@@ -6,6 +6,6 @@
 #define STDERR_FILENO       2
 
 #define FILE_TABLE_OFFSET   -3
-#define CONSOLE             0
+#define CONSOLE             1
 
 #endif
